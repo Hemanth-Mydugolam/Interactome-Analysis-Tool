@@ -8,7 +8,7 @@ To use this platform, 2 input files are required- (1) gene expression data from 
 
 The platform will generate a large table of all possible interactions between the ligand cells and the receptor cells, and this can subsequently be filtered and ranked using criteria defined by the user.
 
-The platform will also generate a sankey plot file that can be used to visualize the top interactions.
+The platform will also generate a sankey plot file that can be used to visualize the top interactions. The Final stage results need to be copied and pasted into the [SankeyMATIC](https://www.sankeymatic.com/build/) page embedded into the "Explore"  tab in the application.
 
 ### Using the Shiny Application
 #### Detailed Step-by-Step Guide
