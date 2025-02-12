@@ -17,7 +17,7 @@ This web application has an interactive interface for easy utilization of the in
 1. Navigate to the [Shiny application](https://sensoryomics.shinyapps.io/Interactome/).
    
 2. You have the option to either upload your ligand and receptor data or use the existing data provided by the application.
- ![Step1](images/your-image.png)
+ ![Step1](images/Interactome-Step1)
 3. Follow the step by step instructions in the application to run the interactome analysis.
 
 For a more detailed step-by-step guide on using the [Shiny application](https://sensoryomics.shinyapps.io/Interactome/), refer to the attached "Interactome Application - User Guide.pdf" file.
